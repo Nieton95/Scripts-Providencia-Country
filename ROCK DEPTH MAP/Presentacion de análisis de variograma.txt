@@ -1,0 +1,7 @@
+1- Evaluar integrar el apartado donde se muestra el análisis del variograma empírico.
+
+2- Indicar el proceso de evaluación del variograma sintético bajo los tres modelos: Esférico, Exponencial y Gaussiano, luego su validación cruzada con base en la comparación de los valores de RMSE.
+
+"Se ajustaron modelos de variograma esférico, exponencial y gaussiano al variograma empírico con el fin de evaluar la estructura de dependencia espacial de la profundidad de roca. La comparación de los modelos se realizó de forma visual y mediante validación cruzada, seleccionando aquel que ofreció un mejor equilibrio entre ajuste estadístico y coherencia geológica."
+
+3- A partir de los resultados del análisis de validación cruzada, argumentar el por que se optó por usar un método Esférico para obtener el variograma sintético o ajustado (no hubo mucha diferencia entre los métodos, y el esférico es el más utilizado en análisis getécnico-geológico), e indicar los valores de interés interpretativo NUGGET, SILL, RANGE.
