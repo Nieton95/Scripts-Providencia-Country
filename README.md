@@ -8,7 +8,7 @@ El objetivo principal es generar productos geoespaciales que permitan visualizar
 
 El repositorio incluye scripts en R para:
 
--Limpieza y preparación de datos espaciales.
+-Limpieza, preparación y validación geoestadística de datos espaciales.
 
 -Generación de variogramas y ajustes de modelos.
 
