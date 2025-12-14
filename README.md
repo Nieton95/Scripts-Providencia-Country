@@ -84,6 +84,6 @@ Este repositorio está abierto a mejoras, sugerencias y ampliaciones futuras con
 
 Para preguntas, dudas o colaboración técnica:
 
-Iván Mariano Nieto Cárdenas — Ingeniero Civil / Geotecnia & Geociencias Aplicadas
+Iván Mariano Nieto Cárdenas — Ingeniero Civil / Geotecnia / Geociencias Aplicadas
 
 ivannieto_95@hotmail.com
